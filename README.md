@@ -1,5 +1,7 @@
 # Laptop Price Analysis & Prediction
 
+![Laptop Price Analysis](https://github.com/shloktilokani/LaptopFeatureAnalysisStarSchema/blob/main/Res/Recording%202025-02-17%20003235.gif)
+
 ## 📌 Project Overview
 This project focuses on analyzing laptop pricing trends, brand performance, and market segmentation using a structured dataset. The dataset consists of 823 different laptop models with 19 attributes covering specifications like brand, processor, RAM, storage, OS, graphics, pricing, and user ratings. The structured approach using a Star Schema helps in efficient data querying and business intelligence analysis.
 
